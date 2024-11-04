@@ -10,6 +10,7 @@ describe("🌶️ Challenges", () => {
         secondHalfOfArrayIfItIsEven(["apple", "orange", "banana", "kiwi"])
       ).toEqual(["banana", "kiwi"]);
     });
+    //khadeejah
 
     it("returns an empty array if the length is odd", () => {
       expect(
