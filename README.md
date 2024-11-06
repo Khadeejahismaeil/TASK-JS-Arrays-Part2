@@ -1,3 +1,5 @@
+Hello
+
 # JS-Arrays-Part2
 
 ## Instructions
